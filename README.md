@@ -1,8 +1,11 @@
 # Princeton Algorithms Part 1 - 8 Puzzle 
 
-The problem: The 8-puzzle is a sliding puzzle that is played on a 3-by-3 grid with 8 square tiles labeled 1 through 8, plus a blank square. The goal is to rearrange the tiles so that they are in row-major order, using as few moves as possible. You are permitted to slide tiles either horizontally or vertically into the blank square. </br>
+Problem:
+The 8-puzzle is a classic sliding puzzle played on a 3×3 grid, consisting of eight numbered tiles and one blank space. The objective is to rearrange the tiles into row-major order by sliding them horizontally or vertically into the blank space, using as few moves as possible.
 
-Solution: In this project, I created a board to stimulate an 8 puzzle. Then, I implemented the solver by creating a search function with a priority to solve the game in the least possible amount of moves. </br>
+Solution:
+In this project, I built a board to simulate the 8-puzzle and developed a solver using a priority-based search algorithm. The solver efficiently finds the optimal sequence of moves to complete the puzzle in the fewest steps possible.
 
-Passed with a score of 94%.
+Result:
+Successfully completed the project with a score of 94%.
 
